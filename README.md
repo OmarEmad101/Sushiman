@@ -28,4 +28,4 @@ To view or edit the project, you need a code editor (e.g., VS Code) and Git inst
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Sushiman.git
+   git clone https://github.com/OmarEmad101/Sushiman.git
