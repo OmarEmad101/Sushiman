@@ -7,9 +7,13 @@
 ## Features
 
 - **Home Page**: Introduction to the sushi restaurant with a stunning hero image and a brief description.
+  ![Home Page](images/1.png)
 - **Menu Page**: A detailed menu showcasing various sushi dishes with images and prices.
+  ![Menu Page](images/3.png)
 - **About Page**: Information about the restaurant's history, mission, and team.
-- **Contact Page**: A contact form and location information with an embedded map.
+  ![About Page](images/2.png)
+- **Trending Page**: Trending Japanese food and drinks.
+  ![Contact Page](images/4.png)
 - **Responsive Design**: The website is fully responsive and looks great on all devices, from desktop to mobile.
 
 ## Technologies Used
